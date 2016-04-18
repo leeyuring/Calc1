@@ -1,10 +1,10 @@
 
 public class asdf {
-	public void say(string msg){
+	public void say(String msg){
 		System.out.println("hello ~" +msg);
 		System.out.println("hi ^^"+msg);
 	}
-	public static void main(string[] args){
+	public static void main(String[] args){
 		Calc h = new Calc();
 		h.say(" Gildong!");
 	
