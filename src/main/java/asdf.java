@@ -5,7 +5,7 @@ public class asdf {
 	}
 	public static void main(string[] args){
 		Hello h = new Hello();
-		h.say("hello Gildong!");
+		h.say(" Gildong!");
 	
 	}
 
