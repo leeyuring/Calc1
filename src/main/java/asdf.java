@@ -1,8 +1,8 @@
 
 public class asdf {
 	public void say(string msg){
-		System.out.println(msg);
-		System.out.println("hi"+msg);
+		System.out.println("hello ^^"+msg);
+		System.out.println("hi ^^"+msg);
 		
 	}
 	public static void main(string[] args){
